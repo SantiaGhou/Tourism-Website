@@ -1,31 +1,52 @@
-# 🏝️ **Página de Turismo**
+# 🌍 Tourism Page  
+<h1 align="center"> Tourism Page </h1>
 
-Projeto desenvolvido como parte do meu aprendizado contínuo em desenvolvimento web. Este projeto é uma página de turismo simples e funcional, com foco em uma experiência visual agradável e boas práticas de HTML e CSS.
+<p align="center">
+  A project developed to improve my skills in web development. This project showcases a simple and functional tourism webpage focused on delivering a visually appealing design and implementing modern best practices.
+</p>
 
-O objetivo principal é criar uma interface atraente que inspire os usuários a explorar novos destinos e planejar viagens inesquecíveis.
+<p align="center">
+  Designed to inspire users to explore new destinations and plan unforgettable trips, this project highlights key HTML and CSS fundamentals. <br/>
+  <a href="#">Click here to view this project in action.</a>
+</p>
+
+<p align="center">
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Tourism Page" src=".github/preview.jpg" width="100%">
+</p>
+
+## 🚀 Technologies
+
+This project was developed with the following technologies:
+
+- HTML5 and CSS3  
+- Git and GitHub  
+- Figma  
+
+## 💻 Project  
+
+The **Tourism Page** is a simple and functional webpage created to display amazing destinations with images, descriptive texts, and a responsive design suitable for any device.  
+
+## 🔖 Layout  
+
+You can view the project layout through [THIS LINK](#). To access it, you need a [Figma](https://figma.com) account.  
+
+## :memo: License  
+
+This project is under the **MIT** license.  
 
 ---
 
-## 🚀 **Tecnologias**  
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- **HTML5 e CSS3**: Estrutura e estilização da página.
-- **Git e GitHub**: Versionamento e compartilhamento do código.
-- **Figma**: Design e prototipagem do layout.
-
----
-
-## 💻 **Projeto**  
-A **Página de Turismo** é um projeto voltado para apresentar destinos incríveis com imagens, textos descritivos e um design responsivo que se adapta a diferentes dispositivos. Ideal para agências de turismo ou inspiração para desenvolvedores iniciantes.
-
----
-
-## 🔖 **Layout**  
-Você pode visualizar o layout do projeto através **[DESSE LINK](#)**. Para acessá-lo, é necessário ter uma conta no Figma.
-
----
-
-## 📝 **Licença**  
-Esse projeto está sob a licença **MIT**, permitindo uso, cópia e modificação livremente.
-
-Feito com 🌍 por **Santiaghou** 👋 Vamos explorar juntos!
+Made with 🌎 by **Santiaghou** 👋 Let's explore together!  
