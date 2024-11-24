@@ -7,7 +7,6 @@
 
 <p align="center">
   Designed to inspire users to explore new destinations and plan unforgettable trips, this project highlights key HTML and CSS fundamentals. <br/>
-  <a href="https://santiaghou.github.io/tourism-page/">Click here to view this project in action.</a>
 </p>
 
 <p align="center">
