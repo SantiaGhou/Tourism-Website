@@ -7,7 +7,7 @@
 
 <p align="center">
   Designed to inspire users to explore new destinations and plan unforgettable trips, this project highlights key HTML and CSS fundamentals. <br/>
-  <a href="#">Click here to view this project in action.</a>
+  <a href="https://santiaghou.github.io/tourism-page/">Click here to view this project in action.</a>
 </p>
 
 <p align="center">
@@ -17,17 +17,13 @@
   <a href="#memo-license">License</a>
 </p>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
 <br>
 
 <p align="center">
-  <img alt="Tourism Page" src=".github/preview.jpg" width="100%">
+  <img alt="Tourism Page" src=".github/banner.png" width="100%">
 </p>
 
-## 🚀 Technologies
+## 🚀 Technologies  
 
 This project was developed with the following technologies:
 
@@ -41,7 +37,7 @@ The **Tourism Page** is a simple and functional webpage created to display amazi
 
 ## 🔖 Layout  
 
-You can view the project layout through [THIS LINK](#). To access it, you need a [Figma](https://figma.com) account.  
+You can view the project layout through [THIS LINK](https://www.figma.com/design/eLw2zuUKUrDKWdNDYBBkf4/Local-Tur%C3%ADstico-(Community)?node-id=0-1&node-type=canvas&t=B8nXpnHFm3A3ynC7-0). To access it, you need a [Figma](https://figma.com) account.  
 
 ## :memo: License  
 
@@ -49,4 +45,5 @@ This project is under the **MIT** license.
 
 ---
 
-Made with 🌎 by **Santiaghou** 👋 Let's explore together!  
+Made with 🌎 by **[Santiaghou](https://github.com/Santiaghou)** 👋 Let's explore together!  
+Designed from  [rocketseat](https://www.rocketseat.com.br/)
